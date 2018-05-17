@@ -3,7 +3,7 @@
 
 ## Home Page
 
-**[View This Repo Live](https://listen-dinle.github.io/listen-demo-presentation)**
+**[View This Repo Live](https://listen-dinle.github.io/Listen-Demo-Presentation/)**
 
 ## Status
 
@@ -13,13 +13,13 @@
 ## Usage
 This template contains the following dependent libraries and resources:
 * [Bootstrap](http://getbootstrap.com/)  
-* [View the files on GitHub](https://github.com/Listen-Dinle/listen-demo-presentation)
+* [View the files on GitHub](https://github.com/Listen-Dinle/Listen-Demo-Presentation)
 
 
 ## Questions and Comments
 
 Have a question? [Ask a question](https://listen-dinle.github.io/#contact)  
-We are open to comments here on GitHub [Open a pull request](https://github.com/Listen-Dinle/listen-demo-presentation/pulls) 
+We are open to comments here on GitHub [Open a pull request](https://github.com/Listen-Dinle/Listen-Demo-Presentation/pulls) 
 
 
 ## About

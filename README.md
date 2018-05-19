@@ -1,4 +1,4 @@
-# [Listen-Demo-Day-Presentation]
+# [Listen-Demo-Presentation]
 <br>
 
 ## Home Page
@@ -7,7 +7,7 @@
 
 ## Status
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/Listen-Dinle/listen-dinle.github.io/listen-demo-presentation/master/LICENSE)
+[![GitHub license](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-blue.svg)](https://raw.githubusercontent.com/Listen-Dinle/Listen-Demo-Presentation/issues/)
 
 
 ## Usage
@@ -29,17 +29,18 @@ Listen-Dinle is an organization that creates educational content. We pride ourse
 
 
 Originally inspired from:
-[Download from Start Bootstrap](https://startbootstrap.com/template-overviews/agency/)
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
 Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) 
 Framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
 ## Copyright and License
 
-Copyright 2018 Listen-Dinle, Inc. Code released under the [MIT](https://github.com/Listen-Dinle/listen-demo-presentation/blob/master/LICENSE) license.
+Code released under the [Attribution-NonCommercial-ShareAlike 4.0 International](https://github.com/Listen-Dinle/listen-demo-presentation/blob/master/LICENSE) license.
+<div>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>
+</div>
 <p>
 <div>
-Listen Dinle, Inc. &copy; 2018
-<p>Created, and currently maintained by <a href="https://www.github.com/wes-o">@wes-o</a> from <a href="https://www.listen-dinle.org">Listen Dinle, Inc.</a> 
+<br>
+<p>Created, and currently maintained by <a href="https://www.github.com/wes-o">@wes-o</a> from <a href="https://listen-dinle.github.io">Listen Dinle, Inc. Copyright &copy; 2018</a> 
 </div>
 </p>

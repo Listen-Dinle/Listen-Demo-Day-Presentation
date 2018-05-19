@@ -41,6 +41,6 @@ Code released under the [Attribution-NonCommercial-ShareAlike 4.0 International]
 <p>
 <div>
 <br>
-<p>Created, and currently maintained by <a href="https://www.github.com/wes-o">@wes-o</a> from <a href="https://listen-dinle.github.io">Listen Dinle, Inc. Copyright &copy; 2018</a> 
+<p>Created, and currently maintained by <a href="https://www.github.com/wes-o">@wes-o</a> from <a href="https://listen-dinle.github.io">Listen Dinle, Inc. </a> Copyright &copy; 2018 
 </div>
 </p>
